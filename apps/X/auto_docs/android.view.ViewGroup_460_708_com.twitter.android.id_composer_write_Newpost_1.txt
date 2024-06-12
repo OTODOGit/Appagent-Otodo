@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a button to compose a new tweet, opening the text input area where users can type their message.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as an "Open" button, which when tapped, initiates the opening of the selected application.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

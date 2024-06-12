@@ -1,0 +1,1 @@
+{'tap': 'The UI element opens a menu for various content creation options, such as posting a tweet, adding photos, or going live.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

@@ -1,0 +1,1 @@
+{'tap': 'The UI element opens a search interface where users can input text to search for apps or content on their device.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

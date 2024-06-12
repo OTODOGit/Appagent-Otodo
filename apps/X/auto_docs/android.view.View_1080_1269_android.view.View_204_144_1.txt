@@ -1,0 +1,1 @@
+{'tap': "The UI element functions as a command to open or launch the already installed application from the device's app store or search interface.", 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

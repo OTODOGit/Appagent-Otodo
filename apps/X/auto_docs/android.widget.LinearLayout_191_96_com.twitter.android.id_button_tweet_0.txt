@@ -1,0 +1,1 @@
+{'tap': 'The UI element appears to trigger a prompt or notification about additional features or verification steps required by the platform, rather than performing the action of posting content.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

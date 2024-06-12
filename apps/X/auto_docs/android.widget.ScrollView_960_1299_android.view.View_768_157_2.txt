@@ -1,0 +1,1 @@
+{'tap': 'The UI element dismissed an informational pop-up message, allowing the user to proceed with their intended action within the app.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}
